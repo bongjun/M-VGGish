@@ -19,7 +19,7 @@ This repository contains example codes to extract audio features using M-VGGish 
 
 * It takes a mel-spectrogram of a recording (any length) and outputs a 8192-dimensional feature vector.
 
-* You will need `python 3` and `PyTorch`
+* You will need `python 3` with `PyTorch` and `librosa`
 
 * Run the example code (It runs on CPU).
 ```shell
