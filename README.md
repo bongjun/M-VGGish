@@ -2,7 +2,7 @@
 
 This repository contains code to extract audio features using M-VGGish model presented in the following papers
 
-* [pdf](https://www.bongjunkim.com/pages/files/papers/icassp19_Kim.pdf) Bongjun Kim and Bryan Pardo, “Improving Content-based Audio Retrieval by Vocal Imitation Feedback,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, 2019.
+* Bongjun Kim and Bryan Pardo, “Improving Content-based Audio Retrieval by Vocal Imitation Feedback,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, 2019. [[pdf]](https://www.bongjunkim.com/pages/files/papers/icassp19_Kim.pdf) 
 
 ```
 @inproceedings{kim2019improving,
