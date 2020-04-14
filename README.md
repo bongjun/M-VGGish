@@ -1,6 +1,6 @@
 # M-VGGish embedding
 
-This repository contains code to extract audio features using M-VGGish model presented in the following papers
+This repository contains example codes to extract audio features using M-VGGish model presented in the following papers
 
 * Bongjun Kim and Bryan Pardo, “Improving Content-based Audio Retrieval by Vocal Imitation Feedback,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, 2019. [[pdf]](https://www.bongjunkim.com/pages/files/papers/icassp19_Kim.pdf) 
 
@@ -21,7 +21,7 @@ This repository contains code to extract audio features using M-VGGish model pre
 
 * You will need `python 3` and `PyTorch`
 
-* Run the example code
+* Run the example code (It runs on CPU).
 ```shell
 python run.py
 ```
