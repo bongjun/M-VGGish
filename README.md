@@ -15,6 +15,12 @@ This repository contains example codes to extract audio features using M-VGGish 
 }
 ```
 
+M-VGGish also has been used in the following paper
+
+* Fatemeh Pishdadian, Bongjun Kim, Prem Seetharaman, and Bryan Pardo, “Classifying non-speech vocals: Deep vs Signal Processing Representations,” Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) 2019. [[pdf]](https://www.bongjunkim.com/pages/files/papers/DCASE_workshop_2019_Fatemeh.pdf) 
+
+***
+
 * Some of the feature extraction codes (`vggish_utils/`) are from the repository of [VGGish model](https://github.com/tensorflow/models/tree/master/research/audioset). (`vggish_input_clipwise.py` was newly added to extract a clip-level feature vector.)
 
 * It takes a mel-spectrogram of a recording (any length) and outputs a 8192-dimensional feature vector.
